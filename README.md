@@ -1,0 +1,1 @@
+# tam_sayi_bolenler
